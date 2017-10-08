@@ -1,5 +1,8 @@
 jcstress-examples
 ========================
+<nobr>[![Build Status](https://travis-ci.org/jwoschitz/jcstress-examples.svg?branch=master)](https://travis-ci.org/jwoschitz/jcstress-examples)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)</nobr>
+
 The [Java Concurrency Stress tests (jcstress)](https://wiki.openjdk.java.net/display/CodeTools/jcstress) part of the OpenJDK and is an experimental harness and a suite of tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
 
 This project provides an outline on how to build and execute jcstress test cases. It uses the [jcstress-gradle-plugin](https://github.com/jerzykrlk/jcstress-gradle-plugin) for gradle integration.
